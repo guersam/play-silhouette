@@ -4,6 +4,8 @@ scala:
   - 2.11.4
 jdk:
 - oraclejdk7
+sudo:
+  false
 env:
   global:
   - secure: D67lbC+UaIrlmL9KC7eegzw5i0xeRI+L99iUenR5krhfCOZtKX1VcJtR4fl+YXYQ6QJwJbAx1N5RkjshZcR/v9iD8++9E8KkhixF3n1fHmeQa61AQ1GpQTPv2PiEIxvnf0qJNfjsc14Kcp5lgXd9ZtDSxLVrjsR5mJO2JyVkHqk=
